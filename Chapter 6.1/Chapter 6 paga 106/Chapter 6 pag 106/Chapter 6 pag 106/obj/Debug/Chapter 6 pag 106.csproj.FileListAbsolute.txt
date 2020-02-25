@@ -1,0 +1,7 @@
+C:\Deidre\Module 3\Chapter 6\Chapter 6 paga 106\Chapter 6 pag 106\Chapter 6 pag 106\obj\Debug\Chapter 6 pag 106.csprojAssemblyReference.cache
+C:\Deidre\Module 3\Chapter 6\Chapter 6 paga 106\Chapter 6 pag 106\Chapter 6 pag 106\obj\Debug\Chapter 6 pag 106.csproj.CoreCompileInputs.cache
+C:\Deidre\Module 3\Chapter 6\Chapter 6 paga 106\Chapter 6 pag 106\Chapter 6 pag 106\bin\Debug\Chapter 6 pag 106.exe.config
+C:\Deidre\Module 3\Chapter 6\Chapter 6 paga 106\Chapter 6 pag 106\Chapter 6 pag 106\bin\Debug\Chapter 6 pag 106.exe
+C:\Deidre\Module 3\Chapter 6\Chapter 6 paga 106\Chapter 6 pag 106\Chapter 6 pag 106\bin\Debug\Chapter 6 pag 106.pdb
+C:\Deidre\Module 3\Chapter 6\Chapter 6 paga 106\Chapter 6 pag 106\Chapter 6 pag 106\obj\Debug\Chapter 6 pag 106.exe
+C:\Deidre\Module 3\Chapter 6\Chapter 6 paga 106\Chapter 6 pag 106\Chapter 6 pag 106\obj\Debug\Chapter 6 pag 106.pdb
